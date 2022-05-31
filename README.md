@@ -1,17 +1,17 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./arz2.png" width="500"><br>
+<img src="./arz1.png" width="500"><br>
 500px.png
 </td>
   <td valign="bottom">
-<img src="./crp2.png" width="500"><br>
+<img src="./arz2.png" width="500"><br>
 500px.png
 </td>
   </tr>
   <tr>
 <td valign="bottom">
-<img src="./crp28.png" width="500"><br>
+<img src="./arz3.png" width="500"><br>
 500px.png
 </td>
   <td valign="bottom">
